@@ -1,0 +1,83 @@
+*
+{
+    padding: 0;
+    margin: 0;
+}
+
+body 
+{
+    background-color: #f3d34c;
+    
+}
+
+.preview-card
+{
+    background-color: white;
+    width: 18em;
+    border: 2px solid black;
+    box-shadow: 7px 7px black;
+    height: 500px;
+    border-radius: .9em;
+    margin-left: 35vw;
+    margin-top: 3%;
+}
+img
+{
+    margin: .6em;
+    border: none;
+    border-radius: .8em;
+
+}
+.learning
+{
+    font-family: 'Figtree', sans-serif;
+    background-color: #f3d34c;
+    margin-left: .9em;
+    padding: .2em .9em ;
+    font-size: 15px;
+    width:min-content;
+    border-radius: .3em;
+
+}
+
+.publish-date
+{
+    font-size:12px;
+    margin: 1em .2em .9em 1em;
+    padding-left: .4em;
+    font-family: 'Figtree', sans-serif;  
+
+}
+
+.course-title
+{   
+
+    font-size: 25px;
+    margin: .6em;    
+
+
+}
+.course-about
+{
+    font-size: 13px;
+    margin-left: .4em;
+    margin-right: .4em;
+    padding-left: .9em;
+    font-family: 'Poppins', sans-serif;
+}
+.owner
+{
+    font-family: 'Figtree', sans-serif; 
+    font-size: 15px; 
+}
+.course-title a
+{
+    text-decoration: none;
+    color: black;
+}
+a:hover
+{
+    color: #f3d34c;
+}
+
+
